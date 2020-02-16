@@ -11,21 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.Sx. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Computer Engineering, Khon Kaen University, Thailand, 2014
+* M.Sc. in Information Technology (TGIST Scholar), King Mongkut's Institute of Technology Ladkrabang, Thailand, 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Mar. 2013 – Oct. 2013: Research Internship
+  * National Electronics and Computer Technology Center (NECTEC)
+  * Intelligent Transportation Systems Laboratory (ITS Lab)
+  * Traffic anomaly detection using mobile sensors (main project)
+  * Co-develop traffic simulation models in Thailand Science Park using PTV Vissim
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
+* Nov. 2014 – Oct. 2015: Research Assistant
+  * Research projects related to Intelligent Transportation Systems include traffic incident detection, road network travel-time prediction, traffic simulation and mobile application as a tool for traffic data collection.
+  * Teaching Assistant in Introduction to Computer Systems (1st semesters 2014
   * Supervisor: Professor Hub
+ 
+* Jun. 2016 – Present: Research Assistant
+  * National Electronics and Computer Technology Center (NECTEC)
+  * Strategic Analytics Networks with Machine Learning and AI Research Team (SAI)
+  * R&D projects cover data science, big data analytics and visualization, blockchain and engineering problems in the government sector), financial market, banking and agriculture
   
 Skills
 ======
