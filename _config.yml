@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chaiyaphum"
+title                    : "CS PAGE"
 title_separator          : "-"
 name                     : &name "Chaiyaphum Siripanpornchana"
 description              : &description "personal description"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chaiyaphum"
-  avatar           : "chaiyaphum-profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  name             : "Chaiyaphum Siripanpornchana"
+  avatar           : "chaiyaphum-profile.jpg"
+  bio              : #"Your biography for the left-hand sidebar"
   location         : "Bangkok, Thailand"
   employer         : "NECTEC, Thailand"
   pubmed           : #
   googlescholar    : "https://scholar.google.co.th/citations?user=0UxqlQMAAAAJ"
-  email            : "chaiyaphum.siripanpornchana@nectec.or.th"
+  email            : "chaiyaphum.siripanpornchana@nectec.or.th, big.qmlh@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Chaiyaphum_Siripanpornchana"
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/chaiyaphum/"
+  linkedin         : "chaiyaphum"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "QmlH"
   vine             :
   weibo            :
   xing             :
