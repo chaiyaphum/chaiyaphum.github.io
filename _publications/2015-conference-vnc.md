@@ -3,7 +3,7 @@ title: "Effective variables for urban traffic incident detection"
 collection: publications
 permalink: /2015-conference-vnc
 excerpt: 'In this paper, we investigate and identify the traffic variables that are effective in detecting an incident in an urban road network. Particularly, speed, acceleration, lane-change ratio and travel time are studied. The results show that these four traffic variables are generally effective for traffic incident detection. However, among the four variables, the least effective one is the travel time.'
-date: 2015-12-05
+date: 2015-12-16
 venue: '2015 IEEE Vehicular Networking Conference (VNC)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/7385576'
 citation: '<b>C. Siripanpornchana</b>, S. Panichpapiboon, and P. Chaovalit. &quot;Effective Variables for Urban Traffic Incident Detection.&quot; <i>in Proc. IEEE Vehicular Networking Conference (VNC), Kyoto Japan</i>. December. 2015.'
