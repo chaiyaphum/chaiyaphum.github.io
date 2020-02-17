@@ -1,7 +1,7 @@
 ---
-title: "Travel-time prediction with deep learning"
+title: "Traffic Anomaly Detection Using Mobile Sensors"
 collection: publications
-permalink: /2016-conference-tencon
+permalink: /2013-conference-atrans
 excerpt: '<b>Summary: </b>In this paper, we propose an effective travel time prediction technique based on a concept of Deep Belief Networks (DBN). In our method, a stack of Restricted Boltzmann Machines (RBM) is used to automatically learn generic traffic features in an unsupervised fashion, and then a sigmoid regression is used to predict travel time in a supervised fashion. The experimental results, based on real traffic data, show that the proposed method can achieve great performance in terms of prediction accuracy.'
 date: 2016-11-22
 venue: '2016 IEEE Region 10 Conference (TENCON)'
