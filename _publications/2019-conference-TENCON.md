@@ -1,15 +1,13 @@
 ---
 title: "Exploring Night Light as Proxy for Poverty and Income Inequality Approximation in Thailand"
 collection: publications
-permalink: /2016-conference-tencon
-excerpt: '<b>Summary: </b>In this paper, we propose an effective travel time prediction technique based on a concept of Deep Belief Networks (DBN). In our method, a stack of Restricted Boltzmann Machines (RBM) is used to automatically learn generic traffic features in an unsupervised fashion, and then a sigmoid regression is used to predict travel time in a supervised fashion. The experimental results, based on real traffic data, show that the proposed method can achieve great performance in terms of prediction accuracy.'
-date: 2016-11-22
-venue: '2016 IEEE Region 10 Conference (TENCON)'
-paperurl: '10.1109/TENCON.2016.7848343'
-citation: '<b>C. Siripanpornchana</b>, S. Panichpapiboon, and P. Chaovalit. &quot;Travel-time prediction with deep learning.&quot; <i>in Proc. IEEE Region 10 Conference (TENCON), Singapore, Singapore</i>. November. 2016.'
+permalink: /2019-conference-tencon
+excerpt: '<b>Summary: </b>This paper explores the feasibility in using Visible Infrared Imaging Radiometer Suite (VIIRS) Day/Night Band (DNB) night light data as a proxy for approximation of socioeconomic indicators like poverty rate and income inequality. We show night light data features that have high correlations with monetary based income features and moderate correlations with poverty rate at the province level of Thailand.'
+date: 2019-10-17
+venue: '2019 IEEE Region 10 Conference (TENCON)'
+paperurl: '10.1109/TENCON.2019.8929247'
+citation: 'U Dorji, <b>C. Siripanpornchana</b>, Navaporn Surasvadi, Anon Plangprasopchok and Suttipong Thajchayapong. &quot;Exploring Night Light as Proxy for Poverty and Income Inequality Approximation in Thailand.&quot; <i>in Proc. IEEE Region 10 Conference (TENCON), Kochi, Kerala, India</i>. October. 2019.'
 ---
-Travel time prediction is a challenging problem in Intelligent Transportation Systems (ITS). Accurate travel time information helps motorists plan their routes more wisely. This, in turn, alleviates traffic congestion and improves operation efficiency. A number of travel time prediction techniques exist; however, most of them are based on shallow learning architectures. In contrast to deep learning architectures, shallow learning architectures are lack of features-learning capability. In this paper, we propose an effective travel time prediction technique based on a concept of Deep Belief Networks (DBN). In our method, a stack of Restricted Boltzmann Machines (RBM) is used to automatically learn generic traffic features in an unsupervised fashion, and then a sigmoid regression is used to predict travel time in a supervised fashion. The experimental results, based on real traffic data, show that the proposed method can achieve great performance in terms of prediction accuracy.
+This paper explores the feasibility in using Visible Infrared Imaging Radiometer Suite (VIIRS) Day/Night Band (DNB) night light data as a proxy for approximation of socioeconomic indicators like poverty rate and income inequality. The feasibility is assessed by testing if features of night light data correlate to: 1) the rate of poverty and 2) income inequality. The poverty rate is derived from Thai People Map and Analytics Platform (TPMAP), a project initiated by the Thai government with the goal of developing a data analytics platform for precision poverty alleviation by enabling policymakers to identify the poor, locate them, and understand their basic needs. The poverty rate from TPMAP is computed using Multidimensional Poverty Index and income inequality statistics are calculated using data from three disparate sources. These two measures are used as the target of this study. We show night light data features that have high correlations with monetary based income features and moderate correlations with poverty rate at the province level of Thailand.
 
-[Download paper here (IEEE)](https://ieeexplore.ieee.org/abstract/document/7848343)
-
-[Download paper here (Researchgate)](https://www.researchgate.net/publication/313585649_Travel-time_prediction_with_deep_learning)
+[Download paper here (IEEE)](https://ieeexplore.ieee.org/abstract/document/8929247)
