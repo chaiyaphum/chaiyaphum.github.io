@@ -2,7 +2,7 @@
 title: "Incidents detection through mobile sensing"
 collection: publications
 permalink: /2016-conference-ecti-con
-excerpt: 'In this paper, we introduce a new traffic incident detection algorithm which takes advantage of mobile sensors. This algorithm assesses the likelihood of an incident based on the speed data collected by the mobile sensors. The results show that the proposed detection algorithm is potentially promising. For a practical scenario with 10% penetration rate and 30-second sampling period, the algorithm is able to achieve around 80% detection rate.'
+excerpt: '<b>Summary: In this paper, we introduce a new traffic incident detection algorithm which takes advantage of mobile sensors. This algorithm assesses the likelihood of an incident based on the speed data collected by the mobile sensors. The results show that the proposed detection algorithm is potentially promising. For a practical scenario with 10% penetration rate and 30-second sampling period, the algorithm is able to achieve around 80% detection rate.'
 date: 2016-06-01
 venue: '2016 13th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON)'
 paperurl: '10.1109/ECTICon.2016.7561238'
