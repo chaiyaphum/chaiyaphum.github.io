@@ -2,7 +2,7 @@
 title: "Travel-time prediction with deep learning"
 collection: publications
 permalink: /2016-conference-tencon
-excerpt: '<b>Summary: </b>n this paper, we propose an effective travel time prediction technique based on a concept of Deep Belief Networks (DBN). In our method, a stack of Restricted Boltzmann Machines (RBM) is used to automatically learn generic traffic features in an unsupervised fashion, and then a sigmoid regression is used to predict travel time in a supervised fashion. The experimental results, based on real traffic data, show that the proposed method can achieve great performance in terms of prediction accuracy.'
+excerpt: '<b>Summary: </b>In this paper, we propose an effective travel time prediction technique based on a concept of Deep Belief Networks (DBN). In our method, a stack of Restricted Boltzmann Machines (RBM) is used to automatically learn generic traffic features in an unsupervised fashion, and then a sigmoid regression is used to predict travel time in a supervised fashion. The experimental results, based on real traffic data, show that the proposed method can achieve great performance in terms of prediction accuracy.'
 date: 2016-11-22
 venue: '2016 IEEE Region 10 Conference (TENCON)'
 paperurl: '10.1109/TENCON.2016.7848343'
