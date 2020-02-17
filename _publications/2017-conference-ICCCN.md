@@ -1,15 +1,15 @@
 ---
 title: "Performance analysis of private blockchain platforms in varying workloads"
 collection: publications
-permalink: /2016-conference-tencon
-excerpt: '<b>Summary: </b>In this paper, we propose an effective travel time prediction technique based on a concept of Deep Belief Networks (DBN). In our method, a stack of Restricted Boltzmann Machines (RBM) is used to automatically learn generic traffic features in an unsupervised fashion, and then a sigmoid regression is used to predict travel time in a supervised fashion. The experimental results, based on real traffic data, show that the proposed method can achieve great performance in terms of prediction accuracy.'
-date: 2016-11-22
-venue: '2016 IEEE Region 10 Conference (TENCON)'
-paperurl: '10.1109/TENCON.2016.7848343'
-citation: '<b>C. Siripanpornchana</b>, S. Panichpapiboon, and P. Chaovalit. &quot;Performance analysis of private blockchain platforms in varying workloads.&quot; <i>in Proc. IEEE Region 10 Conference (TENCON), Singapore, Singapore</i>. November. 2016.'
+permalink: /2017-conference-icccn
+excerpt: '<b>Summary: </b>This paper conducts a performance analysis of two popular private blockchain platforms, Hyperledger Fabric and Ethereum (private deployment), to assess the performance and limitations of these state-of-the-art platforms. The experimental results, based on varying number of transactions, show that Hyperledger Fabric consistently outperforms Ethereum across all evaluation metrics which are execution time, latency and throughput. Additionally, both platforms are still not competitive with current database systems in term of performances in high workload scenarios.'
+date: 2017-07-31
+venue: '2017 26th International Conference on Computer Communication and Networks (ICCCN)'
+paperurl: '10.1109/ICCCN.2017.8038517'
+citation: 'S. Pongnumkul, <b>C. Siripanpornchana</b> and S. Thajchayapong. &quot;Performance analysis of private blockchain platforms in varying workloads.&quot; <i>in Proc. 26th International Conference on Computer Communication and Networks (ICCCN), Vancouver, BC, Canada</i>. 31 July-3 Aug. 2017.'
 ---
-Travel time prediction is a challenging problem in Intelligent Transportation Systems (ITS). Accurate travel time information helps motorists plan their routes more wisely. This, in turn, alleviates traffic congestion and improves operation efficiency. A number of travel time prediction techniques exist; however, most of them are based on shallow learning architectures. In contrast to deep learning architectures, shallow learning architectures are lack of features-learning capability. In this paper, we propose an effective travel time prediction technique based on a concept of Deep Belief Networks (DBN). In our method, a stack of Restricted Boltzmann Machines (RBM) is used to automatically learn generic traffic features in an unsupervised fashion, and then a sigmoid regression is used to predict travel time in a supervised fashion. The experimental results, based on real traffic data, show that the proposed method can achieve great performance in terms of prediction accuracy.
+This paper conducts a performance analysis of two popular private blockchain platforms, Hyperledger Fabric and Ethereum (private deployment), to assess the performance and limitations of these state-of-the-art platforms. Blockchain, a decentralized transaction and data management technology, is said to be the technology that will have similar impacts as the Internet had on people's lives. Many industries have become interested in adopting blockchain in their IT systems, but scalability is an often- cited concern of current blockchain technology. Therefore, the goals of this preliminary performance analysis are twofold. First, a methodology for evaluating a blockchain platform is developed. Second, the analysis results are presented to inform practitioners in making decisions regarding adoption of blockchain technology in their IT systems. The experimental results, based on varying number of transactions, show that Hyperledger Fabric consistently outperforms Ethereum across all evaluation metrics which are execution time, latency and throughput. Additionally, both platforms are still not competitive with current database systems in term of performances in high workload scenarios.
 
-[Download paper here (IEEE)](https://ieeexplore.ieee.org/abstract/document/7848343)
+[Download paper here (IEEE)](https://ieeexplore.ieee.org/abstract/document/8038517)
 
-[Download paper here (Researchgate)](https://www.researchgate.net/publication/313585649_Travel-time_prediction_with_deep_learning)
+[Download paper here (Researchgate)](https://www.researchgate.net/publication/319889164_Performance_Analysis_of_Private_Blockchain_Platforms_in_Varying_Workloads)
