@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Computer Engineering, Khon Kaen University, Thailand, 2014.
-* M.Sc. in Information Technology (TGIST Scholar), King Mongkut's Institute of Technology Ladkrabang, Thailand, 2016.
+* **B.Eng. in Computer Engineering**, Khon Kaen University, Thailand, 2014.
+* **M.Sc. in Information Technology (TGIST Scholar)**, King Mongkut's Institute of Technology Ladkrabang, Thailand, 2016.
   * Thesis title: Urban Traffic Incidents Detection through Mobile Sensing: A Deep Learning Approach.
 
 Work Experience
@@ -102,7 +102,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and Leadership
-======
-* Currently signed in to 43 different slack teams
