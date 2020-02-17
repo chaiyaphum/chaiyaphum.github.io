@@ -15,7 +15,7 @@ Education
 * M.Sc. in Information Technology (TGIST Scholar), King Mongkut's Institute of Technology Ladkrabang, Thailand, 2016.
   * Thesis title: Urban Traffic Incidents Detection through Mobile Sensing: A Deep Learning Approach.
 
-Work experience
+Work Experience
 ======
 * Mar. 2013 – Oct. 2013: Research Internship
   * National Electronics and Computer Technology Center (NECTEC).
@@ -35,7 +35,12 @@ Work experience
 
 Research Interests
 ======
-*  Machine Learning, Deep Learning, Data Science, Data Analytics, Spatial Science, Anomaly Detection, Data Privacy Models
+*  Machine Learning
+*  Deep Learning
+*  Data Science
+*  Spatial Science
+*  Anomaly Detection
+*  Data Privacy Models
 
 Skills
 ======
@@ -52,7 +57,7 @@ Skills
 * Business Intelligence Tools
   * Tableau(Desktop/Server), QlikSense, Microsoft Power BI
 
-Selected certifications
+Selected Certifications
 ======
 * Self-Driving Cars Specialization – University of Toronto (2019)
   * Coursera, Inc. (MOOC platform)
@@ -64,6 +69,21 @@ Selected certifications
   * DataCamp, Inc. (MOOC platform)
 * Deep Learning Nanodegree Certificate Program (2018)
   * Udacity, Inc. (MOOC platform)
+
+Research and Development Projects
+======
+* 2018 – Present: Thai Poverty Map and Analytics Platform (TPMAP) with the Office of the National Economic and Social Development Board (NESDB).
+* 2018 – Present: Government Big Data Analytics System for Monitoring and Evaluation of National Strategy and Country Reform.
+* 2017 – 2018: The Assessment of Blockchain Component for a Suitable Solution Design as a Network of Multiple Banks with the Kasikorn Business-Technology Group.
+* 2017 – 2018: The Assessment of Blockchain Platforms for Developing a Stock Market with the Stock Exchange of Thailand.
+* 2016 – 2018: National Farmers Registration Data Analysis (FAARMRU: Data Analytics and Visualization Platform in Precision Agriculture).
+
+Honors and Awards
+======
+* Computer Vision for Global Challenges (CV4GC) 2019 Challenge Winner
+  * Full travel grants to present the challenges "Poverty Prediction Using Satellite Imagery" at Long Beach, CA, USA.
+* Data Café Fellowship Program with Excellent Performance
+  * 2nd place in the Data Café Fellowship Program for Zanroo: A question answering system based on Pantip (Web board)'s data.
 
 Publications
 ======
@@ -83,6 +103,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
 * Currently signed in to 43 different slack teams
