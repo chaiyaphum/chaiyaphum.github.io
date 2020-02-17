@@ -33,14 +33,18 @@ Work experience
   * Strategic Analytics Networks with Machine Learning and AI Research Team (SAI).
   * R&D projects cover data science, big data analytics, visualization, blockchain and engineering problems in the government sector, financial market, banking and agriculture.
 
+Research Interests
+======
+*  Machine Learning, Deep Learning, Data Science, Data Analytics, Spatial Science, Anomaly Detection, Data Privacy Models
+
 Skills
 ======
 * Programming/Languages
   * Python, JAVA, C, C++, C#, Go, Solidity, PHP, JavaScript, HTML/CSS, Matlab
-* Technologies & Frameworks
-  * VueJS, NodeJS, jQuery, PHP Laravel
 * Data Science Frameworks
   * TensorFlow, Scikit-learn, Keras, Pandas, Matplotlib, Numpy, Theano, DL4G
+* Web Technologies & Frameworks
+  * VueJS, NodeJS, jQuery, PHP Laravel
 * Blockchain Technologies
   * Hyperledger Fabric, Ethereum
 * Databases
