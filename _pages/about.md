@@ -16,6 +16,14 @@ I received my Master degrees in Information Technology at King Mongkut’s Insti
 
 My research interests lie in the design of machine learning/deep learning in real-world applications, Intelligent Transportation Systems, spatial science, anomaly detection, blockchain and data privacy models.
 
+# Contact
+- E-mail: chaiyaphum.siripanpornchana [at] nectec.or.th
+- E-mail (personal): big.qmlh [at] gmail.com
+- Office: room 412 (SAI Lab), NECTEC Building. 
+- Address: 112 Phahonyothin Road, Khlong Nueng, Khlong Luang District, Pathumthani 12120, Thailand.
+- Tel (office): +66 (0)2 564 6900 ext 72295
+
+
 
 A data-driven personal website
 ======
