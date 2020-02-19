@@ -10,7 +10,9 @@ redirect_from:
 
 # Chaiyaphum Siripanpornchana (ชัยภูมิ ศิริพันธ์พรชนะ)
 
-I am currently an research assistant at Strategic Analytics Networks with Machine Learning and AI Research Team (SAI), Data Science and Analytics Research Group (DSARG), National Electronics and Computer Technology Center (NECTEC), Thailand.
+I am currently an research assistant at [Strategic Analytics Networks with Machine Learning and AI Research Team (SAI)](https://www.nectec.or.th/research/research-unit/dsarg-sai.html), [Data Science and Analytics Research Group (DSARG)](https://www.nectec.or.th/research/research-unit/dsarg.html), [National Electronics and Computer Technology Center (NECTEC)](https://www.nectec.or.th/en/), Thailand. My works focus on R&D projects, which brings data and technologies to improve public/private sectors' decision-making and business process.
+
+
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
