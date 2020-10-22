@@ -18,7 +18,7 @@ My research interests lie in the design of machine learning/deep learning in rea
 
 ## Contact
 - **E-mail**: chaiyaphum.siripanpornchana [at] nectec.or.th
-- **E-mail (personal)**: big.qmlh [at] gmail.com
+- **E-mail (personal)**: chaiyaphum.siri [at] gmail.com
 - **Office**: room 412 (SAI Lab), NECTEC Building. 
 - **Address**: 112 Phahonyothin Road, Khlong Nueng, Khlong Luang District, Pathumthani 12120, Thailand.
 - **Tel (office)**: +66 (0)2 564 6900 ext 72295
